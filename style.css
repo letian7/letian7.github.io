@@ -1,0 +1,19 @@
+<style>
+
+        /* Custom styles */
+       p {
+            font-size: 18px; 
+        }
+       nav {
+            height: 90px; /* Adjust the height as needed */
+            line-height: 80px; /* This should generally match the height to vertically center the navigation items */
+        }
+         
+        .brand-logo {
+            margin-left: -190px; 
+        }
+        .section-title {
+            color: #F44336; /* Materialize red color */
+        }
+    </style>
+
